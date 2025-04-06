@@ -1,2 +1,3 @@
 # 3d-game-dev
-Game Development 3d game
+Gamedev Project - Game101 Team: Allan Perez And Hector Moreno.
+
